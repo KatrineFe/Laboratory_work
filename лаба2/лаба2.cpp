@@ -5,7 +5,7 @@
 #include <iomanip>
 #include <random>
 
-
+/*
 int main()
 {
     setlocale(LC_ALL, "Russian");
@@ -25,9 +25,9 @@ int main()
     std::cout << "Эталонное значение: " << pow(2, 0.5) << std::endl;
     std::cout << "Полученное значение: " << s << std::endl;
     std::cout << "Количество итераций: " << n;
-} 
+} */
 
-/*
+
 int main()
 {
     int a[10];
@@ -46,7 +46,7 @@ int main()
         std::cout << a[i] << " ";
     }
 }
-
+/*
 int main()
 {
     unsigned n;
@@ -66,11 +66,8 @@ int main()
     for (int i = 0; i < n; i++) {
         std::cout << lst[i] << " ";
     }
-} 
-
-int main() {
-
 } */
+
 /*
 int main() {
     unsigned n, k;
