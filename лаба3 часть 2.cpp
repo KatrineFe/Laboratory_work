@@ -54,3 +54,4 @@ int main() {
     }
     delete[] mtrx;
 }
+
